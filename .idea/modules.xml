@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/INF1035-Gestionnaire-Persistance.iml" filepath="$PROJECT_DIR$/.idea/INF1035-Gestionnaire-Persistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3_Gestionnaire/inf10135-TP2-Gestionnaire-Persistance.iml" filepath="$PROJECT_DIR$/TP3_Gestionnaire/inf10135-TP2-Gestionnaire-Persistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2_Gestionnaire/inf10135-TP2-Gestionnaire-Persistance (1).iml" filepath="$PROJECT_DIR$/TP2_Gestionnaire/inf10135-TP2-Gestionnaire-Persistance (1).iml" />
+    </modules>
+  </component>
+</project>

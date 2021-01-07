@@ -1,0 +1,19 @@
+version: '3.5'
+services:
+  pg_persistance:
+    image: postgres:9.6
+    container_name: pg_persistance
+    networks:
+      - persistance
+    restart: unless-stopped
+    ports:
+      - "5440:5432"
+    environment:
+      POSTGRES_DB: "dev"
+      POSTGRES_USER: "dev"
+      POSTGRES_PASSWORD: "dev"
+
+networks:
+  persistance:
+    driver: bridge
+    name: persistance
